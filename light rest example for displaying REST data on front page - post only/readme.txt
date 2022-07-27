@@ -1,0 +1,1 @@
+based on local trulion dev env this is the short version for only creatingt new notes post via rest api
